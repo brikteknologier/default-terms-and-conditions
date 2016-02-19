@@ -31,6 +31,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ## Your acceptance of these terms
 By using this Service, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Service. Your continued use of the Service following the posting of changes to this policy will be deemed your acceptance of those changes. Contacting us If you have any questions about this Privacy Policy, the practices of this Service, or your dealings with this Service, please contact us at:
-{company name}
-{company email}
+
+**{company name}**  
+{company email}  
 {company address}
