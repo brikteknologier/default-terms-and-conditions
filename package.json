@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Default T&C json file.",
   "scripts": {
-    "preversion": "node build"
+    "preversion": "node build; git commit -am 'build common terms file'"
   },
   "author": "BRIK Videobase AS"
 }
