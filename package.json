@@ -2,7 +2,7 @@
   "name": "brik-default-terms-and-conditions",
   "version": "1.0.0",
   "description": "Default T&C json file.", "scripts": {
-    "prepublish": "build"
+    "preversion": "node build"
   },
   "author": "BRIK Videobase AS",
 }
