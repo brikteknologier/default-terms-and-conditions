@@ -1,4 +1,3 @@
-# Terms of Service
 The following document outlines the terms of use of {site title}. Before using any of the services, you are required to read, understand and agree to these terms. You may only create an account after reading and accepting these terms. 
 
 ## About {site title}

@@ -1,4 +1,3 @@
-# Privacy Policy
 This Privacy Policy governs the manner in which {company name} collects, uses, maintains and discloses information collected from users (each, a «User») of the {site title} service («the Service»). This privacy policy applies to the the Service and any other products and services offered by {company name}.
 
 ## Personal identification information
