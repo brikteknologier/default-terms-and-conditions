@@ -1,6 +1,6 @@
 {
   "name": "brik-default-terms-and-conditions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Default T&C json file.",
   "scripts": {
     "preversion": "node build"
