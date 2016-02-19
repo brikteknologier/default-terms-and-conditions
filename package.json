@@ -4,5 +4,5 @@
   "description": "Default T&C json file.", "scripts": {
     "preversion": "node build"
   },
-  "author": "BRIK Videobase AS",
+  "author": "BRIK Videobase AS"
 }
