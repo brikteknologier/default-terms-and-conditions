@@ -1,5 +1,5 @@
 {
-  "name": "brik-default-terms-and-conditions",
+  "name": "@brik/brik-default-terms-and-conditions",
   "version": "1.0.4",
   "description": "Default T&C json file.",
   "scripts": {
