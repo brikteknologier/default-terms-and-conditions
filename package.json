@@ -2,8 +2,5 @@
   "name": "@brik/brik-default-terms-and-conditions",
   "version": "1.0.4",
   "description": "Default T&C json file.",
-  "scripts": {
-    "preversion": "node build; git commit -am 'build common terms file'"
-  },
   "author": "BRIK Videobase AS"
 }
